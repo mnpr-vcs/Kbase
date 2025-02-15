@@ -1,0 +1,9 @@
+- Navigation
+- Cat
+- Grep
+- Aliasing
+- Jobs and Processes
+- Output Redirection
+	- `cmd 1> afile` : redirect stdout to `afile` : aka `cmd > 1`
+	- `cmd 2> afile`: redirect stderr to `afile`
+	- `cmd &> afile`: both or `cmd > afile 2>&1`

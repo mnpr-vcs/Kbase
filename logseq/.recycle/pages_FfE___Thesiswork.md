@@ -1,0 +1,14 @@
+## Week I & II
+- ((65e1cb14-6b82-4aa6-9e3b-3fe5271f3883))
+	- LATER Add action and observation space normalization
+	- LATER Try SB3 to CusutomGYM
+	- LATER Try registering the Environment
+	- LATER Compare implementation from paper
+	- LATER Thesis Structure
+	- LATER Reporting of Fundamental RL...
+	-
+- ## Components
+- [[FfE/Implementation]]
+- [[FfE/Administration]]
+- [[FfE/Reporting]]
+- [[FfE/Concepts]]

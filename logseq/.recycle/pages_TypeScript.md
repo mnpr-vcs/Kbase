@@ -1,0 +1,5 @@
+- ## JavaScript
+	- https://www.tutorialrepublic.com/javascript-tutorial/
+	- https://developer.mozilla.org/en-US/docs/Web/JavaScript
+- ## TypeScript
+	- https://www.typescriptlang.org/docs/

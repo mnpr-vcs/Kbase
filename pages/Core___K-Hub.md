@@ -1,0 +1,10 @@
+- ज्ञान | प्रभावः
+	- [[Philosophy]]
+	- [[Science]]
+- अभिरुचि
+	- [[Sound]]
+	- Visual
+- पौराणिक कथाहरू
+	- [[MythnTales]]
+- पुनरावर्ती Setup
+	- [[WorkspaceSetup]]

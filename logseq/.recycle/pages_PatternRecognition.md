@@ -1,0 +1,9 @@
+- Parametric systems (param estimation)
+	- Expected values
+		- **Discrete random variables**
+			- ![image.png](../assets/image_1699365056220_0.png)
+		- **Continuous random variables**
+			- ![image.png](../assets/image_1699364972366_0.png)
+	- ![image.png](../assets/image_1699365192657_0.png)
+- Non parametric systems
+- ____

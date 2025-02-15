@@ -1,0 +1,19 @@
+- Modules
+  collapsed:: true
+	- Academic Studies
+	- JavaScript
+	- Business Process Management System
+	- Requirement Engineering
+	- Data Quality Management
+	- Advanced IT Project Management
+	- Automatic Speech Processing
+	- Business Analytics
+	- Entrepreneurship and Entrapreneurship
+	- Machine Learning
+	- Neural Networks and Deep Learning
+	- IT-Security
+	- Network Systems and Security
+	- Privacy and Data Protection
+	- Cloud Computing and Security
+- [Projectwork](https://github.com/Mnpr/Art-Generation-GANs) :
+- [Thesiswork](https://github.com/Mnpr/HEMS-RLpy)

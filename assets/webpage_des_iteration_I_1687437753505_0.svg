@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg">
+  <rect x="10.34" y="52.448" width="479.192" height="362.102" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);"/>
+  <rect x="22.19" y="64.796" width="453.091" height="337.954" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);"/>
+  <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 11.1px;" x="11.161" y="44.21">Browser.Window</text>
+  <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 6.8px;" x="22.19" y="63.212">Main component</text>
+  <rect x="109.338" y="90.528" width="280.28" height="284.511" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);"/>
+  <rect x="109.338" y="388.894" width="280.28" height="13.856" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);"/>
+  <rect x="109.338" y="90.528" width="280.28" height="13.856" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);"/>
+  <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 7.9px;" x="112.122" y="100.552">Head</text>
+  <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 7.9px;" x="114.55" y="398.445">Foot</text>
+  <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 7.9px;" x="114.165" y="214.331">Body</text>
+</svg>

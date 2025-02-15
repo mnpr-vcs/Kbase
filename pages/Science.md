@@ -1,0 +1,17 @@
+- Formal Science
+	- > the study of [formal systems](https://en.wikipedia.org/wiki/Formal_system), such as those under the branches of [logic](https://en.wikipedia.org/wiki/Logic) and [Mathematics](), which use an *[a priori](https://en.wikipedia.org/wiki/A_priori_and_a_posteriori)*, as opposed to [empirical](https://en.wikipedia.org/wiki/Empirical_evidence), [methodology](https://en.wikipedia.org/wiki/Methodology).
+	- **Mathematics Sub**
+		- Discrete Maths.
+		- Number theory
+		- Graph theory
+		- Linear Algebra
+		- Calculus
+		- Probability
+		- Statistics
+- Natural Science
+	- > the study of natural phenomena (including [cosmological](https://en.wikipedia.org/wiki/Cosmological), [geological](https://en.wikipedia.org/wiki/Geological), [physical](https://en.wikipedia.org/wiki/Physics), [chemical](https://en.wikipedia.org/wiki/Chemistry), and [biological](https://en.wikipedia.org/wiki/Biological) factors of the [universe](https://en.wikipedia.org/wiki/Universe)).
+	- Physical Science ( Physics )
+	- Life Science (Biology[ Botany, Zoology ], Chemisty[ Organic, InOrganic ])
+- Social Science
+	- > the study of [human behavior](https://en.wikipedia.org/wiki/Human_behavior) in its social and cultural aspects
+- Compute Science
