@@ -1,4 +1,4 @@
-- Vocabulary:
+- Vocabulary
   collapsed:: true
 	- Definite articles
 	- | (masculin `le`) | (feminine `la`) | plural `les` |

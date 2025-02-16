@@ -1,13 +1,3 @@
-- `0-1` (Expression factors)
-  collapsed:: true
-	- नेपाली - Native
-	- English - 0.85
-	- हिंदी - 0.7
-	- Deutsch - 0.5
-	- Français - 0.09
-	- Español - 0.01
-	- 中国人 &  عربي (Calligraphy)
-	- ASL - 0.01
-	- Braille - 0.00
 - [[Deutsch]]
 - [[Français]]
+- [[中国人]]

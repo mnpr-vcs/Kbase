@@ -3,6 +3,22 @@
 - [[Reinforcement]]
 - [[TimeSeries]]
 - [[MLEngineering]]
+- ---
+- ClassicalML
+- DeepLearning
+  collapsed:: true
+	- Natural language processing
+	- Computer Vision
+- DataScience
+  collapsed:: true
+	- Data Acquisition, Mining, Scraping
+	- Extraction, Transformation, and Load
+	- Data Analytics and Visualization
+	  collapsed:: true
+		- Descriptive Analytics
+		- Predictive Analytics
+		- Prescriptive Analytics
+- ML-Des-Eng-Ops
 - Misc.
   collapsed:: true
 	- Classification | Regression | Clustering

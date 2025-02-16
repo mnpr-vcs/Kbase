@@ -531,7 +531,8 @@
 :fontSize 20
 :parentId "663caba2-6971-444d-85cb-ebfa4a067329"
 :nonce 1718406065310
-:italic false}}
+:italic false}
+:id "11f8eed0-2aa2-11ef-8938-73ca45bb71c5"}
 :block/updated-at 1721893904196} 
 {:block/created-at 1721893904196
 :block/properties 
@@ -956,6 +957,20 @@
 :nonce 1718409743003
 :italic false}}
 :block/updated-at 1721893904196} 
+{:block/created-at 1721893904196
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:children ["af9578b0-0df2-11ef-9d08-3f506df2e6d4" "c0d3d6d0-0df2-11ef-9d08-3f506df2e6d4" "d0e5c2e0-0df2-11ef-9d08-3f506df2e6d4" "32eef5b0-0df3-11ef-9d08-3f506df2e6d4" "68c13040-0df3-11ef-9d08-3f506df2e6d4" "2b5fec50-24d7-11ef-9eb7-5fe252aeeb50" "f9fb9350-2aa1-11ef-8938-73ca45bb71c5" "0e8d6230-2aa2-11ef-8938-73ca45bb71c5" "11f8eed0-2aa2-11ef-8938-73ca45bb71c5" "22480af0-2aa2-11ef-8938-73ca45bb71c5" "89818f60-2aa3-11ef-8938-73ca45bb71c5" "d74ba730-2aa3-11ef-8938-73ca45bb71c5" "1a8483f2-2aa4-11ef-8938-73ca45bb71c5" "36caacb2-2aa4-11ef-8938-73ca45bb71c5" "3f830912-2aa4-11ef-8938-73ca45bb71c5" "68507080-2aa4-11ef-8938-73ca45bb71c5" "82ffa592-2aa4-11ef-8938-73ca45bb71c5" "9ae3e8e0-2aa6-11ef-8938-73ca45bb71c5" "9f1adbd0-2aa6-11ef-8938-73ca45bb71c5" "b7508560-2aa6-11ef-8938-73ca45bb71c5" "c41e1be0-2aa6-11ef-8938-73ca45bb71c5" "d4e5c360-2aa6-11ef-8938-73ca45bb71c5" "83a10e52-2aa7-11ef-8938-73ca45bb71c5" "7a7e3ae0-2aa8-11ef-8938-73ca45bb71c5" "adbd4770-2aa8-11ef-8938-73ca45bb71c5" "b68bc3e0-2aa8-11ef-8938-73ca45bb71c5" "b92e3eb0-2aa9-11ef-8938-73ca45bb71c5" "1a8bef42-2aaa-11ef-8938-73ca45bb71c5" "2ad12052-2aaa-11ef-8938-73ca45bb71c5" "371bcb30-2aaa-11ef-8938-73ca45bb71c5" "81929952-2aaa-11ef-8938-73ca45bb71c5" "8a7e13a2-2aaa-11ef-8938-73ca45bb71c5" "95b74e82-2aaa-11ef-8938-73ca45bb71c5" "98f673f2-2aaa-11ef-8938-73ca45bb71c5"]
+:index 14
+:scale [1 1]
+:type "group"
+:size [0 0]
+:id "bc7aef20-4a5a-11ef-922c-039a3fb8ee6c"
+:point [0 0]
+:parentId "663caba2-6971-444d-85cb-ebfa4a067329"
+:nonce 1721893904146}}
+:block/updated-at 1721893904196} 
 {:block/content "logseq://graph/Main?page=hems_src\nid:: 663cae9f-aa66-40d1-a701-5465a003bb8a"
 :block/format :markdown
 :block/left 
@@ -1235,20 +1250,6 @@
 :parentId "663caba2-6971-444d-85cb-ebfa4a067329"
 :nonce 1718407025685
 :italic false}}
-:block/updated-at 1721893904196} 
-{:block/created-at 1721893904196
-:block/properties 
-{:ls-type :whiteboard-shape
-:logseq.tldraw.shape 
-{:children ["af9578b0-0df2-11ef-9d08-3f506df2e6d4" "c0d3d6d0-0df2-11ef-9d08-3f506df2e6d4" "d0e5c2e0-0df2-11ef-9d08-3f506df2e6d4" "32eef5b0-0df3-11ef-9d08-3f506df2e6d4" "68c13040-0df3-11ef-9d08-3f506df2e6d4" "2b5fec50-24d7-11ef-9eb7-5fe252aeeb50" "f9fb9350-2aa1-11ef-8938-73ca45bb71c5" "0e8d6230-2aa2-11ef-8938-73ca45bb71c5" "11f8eed0-2aa2-11ef-8938-73ca45bb71c5" "22480af0-2aa2-11ef-8938-73ca45bb71c5" "89818f60-2aa3-11ef-8938-73ca45bb71c5" "d74ba730-2aa3-11ef-8938-73ca45bb71c5" "1a8483f2-2aa4-11ef-8938-73ca45bb71c5" "36caacb2-2aa4-11ef-8938-73ca45bb71c5" "3f830912-2aa4-11ef-8938-73ca45bb71c5" "68507080-2aa4-11ef-8938-73ca45bb71c5" "82ffa592-2aa4-11ef-8938-73ca45bb71c5" "9ae3e8e0-2aa6-11ef-8938-73ca45bb71c5" "9f1adbd0-2aa6-11ef-8938-73ca45bb71c5" "b7508560-2aa6-11ef-8938-73ca45bb71c5" "c41e1be0-2aa6-11ef-8938-73ca45bb71c5" "d4e5c360-2aa6-11ef-8938-73ca45bb71c5" "83a10e52-2aa7-11ef-8938-73ca45bb71c5" "7a7e3ae0-2aa8-11ef-8938-73ca45bb71c5" "adbd4770-2aa8-11ef-8938-73ca45bb71c5" "b68bc3e0-2aa8-11ef-8938-73ca45bb71c5" "b92e3eb0-2aa9-11ef-8938-73ca45bb71c5" "1a8bef42-2aaa-11ef-8938-73ca45bb71c5" "2ad12052-2aaa-11ef-8938-73ca45bb71c5" "371bcb30-2aaa-11ef-8938-73ca45bb71c5" "81929952-2aaa-11ef-8938-73ca45bb71c5" "8a7e13a2-2aaa-11ef-8938-73ca45bb71c5" "95b74e82-2aaa-11ef-8938-73ca45bb71c5" "98f673f2-2aaa-11ef-8938-73ca45bb71c5"]
-:index 14
-:scale [1 1]
-:type "group"
-:size [0 0]
-:id "bc7aef20-4a5a-11ef-922c-039a3fb8ee6c"
-:point [0 0]
-:parentId "663caba2-6971-444d-85cb-ebfa4a067329"
-:nonce 1721893904146}}
 :block/updated-at 1721893904196})
 :pages (
 {:block/uuid #uuid "663caba2-6971-444d-85cb-ebfa4a067329"

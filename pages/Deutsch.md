@@ -1,9 +1,8 @@
-- LATER Revise and Write Cirriculum for Previous.
-- LATER Prepare Cirriculum for Next
 - Basics
 - Intermediate
 - Expressive
 - DaF
+  collapsed:: true
 	- Basic
 	  collapsed:: true
 		- Introduction
@@ -14,6 +13,7 @@
 		- Prepositions
 		- Cases
 	- Intermediate
+	  collapsed:: true
 		- Articles
 		  collapsed:: true
 			- The articles (der, ein, kein) change form (are declined) depending on the gender, case and number.

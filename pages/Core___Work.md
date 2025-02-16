@@ -1,18 +1,14 @@
-## Current
+## Future
 collapsed:: true
-	- [[FfE-Thesiswork]]
-- ## Future
-  collapsed:: true
 	- ML Engineering | Ops
-- ## Bygones: Xp
+- ## Bygones
   collapsed:: true
+	- [[FfE]] @2024
 	- [[CloudFluid]] @2023
-	- Informatik relevant Works
-	  collapsed:: true
-		- VestiFi @2022
-		- FuE-ZentrumKiel @2022
-		- Rokin @2021
-		- BI Solutions @2017
+	- VestiFi @2022
+	- FuE-ZentrumKiel @2022
+	- Rokin @2021
+	- BI Solutions @2017
 	- Offline | Physical Works
 	  collapsed:: true
 		- Staff1 🚢 @ 2018
