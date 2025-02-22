@@ -1,0 +1,4 @@
+- Now/Later [ Weeks, Months ]
+- Short Term [ Season, Year ]
+- Mid Term [ Years ]
+- Long Term [ Decade ]

@@ -1,0 +1,11 @@
+- [[CoreCSE]]
+- [[Development]]
+- [[DataScience]]
+- Better Practices
+  collapsed:: true
+	- Version Control
+	- Quality Assurance
+	- CI-CD
+	- https://github.com/mtdvio/every-programmer-should-know
+	- [MDN Docs](https://developer.mozilla.org/en-US/docs/Web)
+	- [Github Docs](https://docs.github.com/en)

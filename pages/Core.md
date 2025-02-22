@@ -1,0 +1,11 @@
+## दैनिक | क्षितिजमा | कर्म
+	- [[Core/Action]]
+	- [[Core/Work]]
+- ## व्यवस्थापन
+	- [[Core/Management]]
+- ## औपचारिक शिक्षण | ज्ञान
+	- [[Core/Academics]]
+	- [[Core/Learning]]
+	- [[Core/K-Hub]]
+- ## परावर्तन | धारणा | सन्दर्भ
+	- [[Core/Ide-Oughts]]

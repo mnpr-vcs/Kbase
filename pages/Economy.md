@@ -1,0 +1,14 @@
+- IN
+	- Current
+		- Enough for Essentials 😌
+	- Saving
+		- None 🫨
+	- Credit
+		- A lot 🫢
+- Out
+	- Monthly Expenses
+		- In/save/Out Organization: [BlueCoins]
+	- Creditcard
+		- Interests, Payback
+	- Other Recurring Expenses
+		- Cell
